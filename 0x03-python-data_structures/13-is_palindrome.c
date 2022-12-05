@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
 * palindrom -  recursive palind or not
 * @head: head list
